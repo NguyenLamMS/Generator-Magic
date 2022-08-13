@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CreditCardValidator/3.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/CreditCardValidator.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      },
+      "Guna.UI2.WinForms/2.0.3.3": {
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {
+            "assemblyVersion": "2.0.3.3",
+            "fileVersion": "2.0.3.3"
+          }
+        }
+      },
+      "SunnyUI/3.2.2": {
+        "dependencies": {
+          "SunnyUI.Common": "3.2.0"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/SunnyUI.dll": {
+            "assemblyVersion": "3.2.2.0",
+            "fileVersion": "3.2.2.0"
+          }
+        }
+      },
+      "SunnyUI.Common/3.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/SunnyUI.Common.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditCardValidator/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BazJpZqVwf4cNyrbph5JSVz0nOnQuegqoARZArFt6PQYx9QzL6L1GlDKWXFtrWZWWLMU4Dagl9KCtH2/TkfiLg==",
+      "path": "creditcardvalidator/3.0.1",
+      "hashPath": "creditcardvalidator.3.0.1.nupkg.sha512"
+    },
+    "Guna.UI2.WinForms/2.0.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PGwcBC4jmWJ5+YPMjwRaBE5VB92qEWZZI8ud4gTjOC9gf81mGg/62cuiCa2/W1cgDg7nm76qdbUn5pBlTPdQSw==",
+      "path": "guna.ui2.winforms/2.0.3.3",
+      "hashPath": "guna.ui2.winforms.2.0.3.3.nupkg.sha512"
+    },
+    "SunnyUI/3.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vLPRSH80GU+bRdFCBRVFoI0lIxN1pLHtBW3SAJHCWdyB29z9ytiRwDxDnRcxiHONy4y3vulyOZl5+I673PVqOQ==",
+      "path": "sunnyui/3.2.2",
+      "hashPath": "sunnyui.3.2.2.nupkg.sha512"
+    },
+    "SunnyUI.Common/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AS+b7752yqf/x0wltRfAAG51i2mvYTCXXIzuBRp8cB0gyzM0spOSsfOTXW8Tb4fvZ/20nAzmhLGjIt+JVfrIbQ==",
+      "path": "sunnyui.common/3.2.0",
+      "hashPath": "sunnyui.common.3.2.0.nupkg.sha512"
+    }
+  }
+}

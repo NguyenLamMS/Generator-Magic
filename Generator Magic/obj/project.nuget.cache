@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "XwzpZNfu9BX1BfsuM6ffT9PVq5Q0xEoCWc0ipiKs1MQv+RQZqbtM17FNiVlqbwQGJY5RxAMgGBPRiuLlv6PgMg==",
+  "success": true,
+  "projectFilePath": "D:\\Generator Magic\\Generator Magic\\Generator Magic\\Generator Magic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Superman\\.nuget\\packages\\creditcardvalidator\\3.0.1\\creditcardvalidator.3.0.1.nupkg.sha512",
+    "C:\\Users\\Superman\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.3\\guna.ui2.winforms.2.0.3.3.nupkg.sha512",
+    "C:\\Users\\Superman\\.nuget\\packages\\sunnyui\\3.2.2\\sunnyui.3.2.2.nupkg.sha512",
+    "C:\\Users\\Superman\\.nuget\\packages\\sunnyui.common\\3.2.0\\sunnyui.common.3.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guna.UI2.WinForms 2.0.3.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+D:\Generator Magic\Generator Magic\Generator Magic\bin\Debug\net6.0-windows\Generator Magic.exe
+D:\Generator Magic\Generator Magic\Generator Magic\bin\Debug\net6.0-windows\Generator Magic.deps.json
+D:\Generator Magic\Generator Magic\Generator Magic\bin\Debug\net6.0-windows\Generator Magic.runtimeconfig.json
+D:\Generator Magic\Generator Magic\Generator Magic\bin\Debug\net6.0-windows\Generator Magic.dll
+D:\Generator Magic\Generator Magic\Generator Magic\bin\Debug\net6.0-windows\Generator Magic.pdb
+D:\Generator Magic\Generator Magic\Generator Magic\bin\Debug\net6.0-windows\CreditCardValidator.dll
+D:\Generator Magic\Generator Magic\Generator Magic\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator Magic.csproj.AssemblyReference.cache
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator_Magic.Home.resources
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator Magic.csproj.GenerateResource.cache
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator Magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator Magic.AssemblyInfoInputs.cache
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator Magic.AssemblyInfo.cs
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator Magic.csproj.CoreCompileInputs.cache
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator Magic.csproj.CopyComplete
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator Magic.dll
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\refint\Generator Magic.dll
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator Magic.pdb
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator Magic.genruntimeconfig.cache
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\ref\Generator Magic.dll
+D:\Generator Magic\Generator Magic\Generator Magic\bin\Debug\net6.0-windows\SunnyUI.dll
+D:\Generator Magic\Generator Magic\Generator Magic\bin\Debug\net6.0-windows\SunnyUI.Common.dll
+D:\Generator Magic\Generator Magic\Generator Magic\obj\Debug\net6.0-windows\Generator_Magic.Properties.Resources.resources

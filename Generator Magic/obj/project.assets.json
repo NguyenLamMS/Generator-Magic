@@ -1,0 +1,202 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "CreditCardValidator/3.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/CreditCardValidator.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/CreditCardValidator.dll": {}
+        }
+      },
+      "Guna.UI2.WinForms/2.0.3.3": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {}
+        }
+      },
+      "SunnyUI/3.2.2": {
+        "type": "package",
+        "dependencies": {
+          "SunnyUI.Common": "3.2.0"
+        },
+        "compile": {
+          "lib/net6.0-windows7.0/SunnyUI.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/SunnyUI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "SunnyUI.Common/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SunnyUI.Common.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SunnyUI.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditCardValidator/3.0.1": {
+      "sha512": "BazJpZqVwf4cNyrbph5JSVz0nOnQuegqoARZArFt6PQYx9QzL6L1GlDKWXFtrWZWWLMU4Dagl9KCtH2/TkfiLg==",
+      "type": "package",
+      "path": "creditcardvalidator/3.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "creditcardvalidator.3.0.1.nupkg.sha512",
+        "creditcardvalidator.nuspec",
+        "lib/netstandard1.1/CreditCardValidator.dll",
+        "lib/netstandard2.0/CreditCardValidator.dll"
+      ]
+    },
+    "Guna.UI2.WinForms/2.0.3.3": {
+      "sha512": "PGwcBC4jmWJ5+YPMjwRaBE5VB92qEWZZI8ud4gTjOC9gf81mGg/62cuiCa2/W1cgDg7nm76qdbUn5pBlTPdQSw==",
+      "type": "package",
+      "path": "guna.ui2.winforms/2.0.3.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "guna.ui2.winforms.2.0.3.3.nupkg.sha512",
+        "guna.ui2.winforms.nuspec",
+        "icon.png",
+        "lib/net40/Guna.UI2.dll"
+      ]
+    },
+    "SunnyUI/3.2.2": {
+      "sha512": "vLPRSH80GU+bRdFCBRVFoI0lIxN1pLHtBW3SAJHCWdyB29z9ytiRwDxDnRcxiHONy4y3vulyOZl5+I673PVqOQ==",
+      "type": "package",
+      "path": "sunnyui/3.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "SunnyUI.png",
+        "lib/net40/SunnyUI.dll",
+        "lib/net472/SunnyUI.dll",
+        "lib/net6.0-windows7.0/SunnyUI.dll",
+        "sunnyui.3.2.2.nupkg.sha512",
+        "sunnyui.nuspec"
+      ]
+    },
+    "SunnyUI.Common/3.2.0": {
+      "sha512": "AS+b7752yqf/x0wltRfAAG51i2mvYTCXXIzuBRp8cB0gyzM0spOSsfOTXW8Tb4fvZ/20nAzmhLGjIt+JVfrIbQ==",
+      "type": "package",
+      "path": "sunnyui.common/3.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "SunnyUI.png",
+        "lib/net40/SunnyUI.Common.dll",
+        "lib/netstandard2.0/SunnyUI.Common.dll",
+        "sunnyui.common.3.2.0.nupkg.sha512",
+        "sunnyui.common.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "CreditCardValidator >= 3.0.1",
+      "Guna.UI2.WinForms >= 2.0.3.3",
+      "SunnyUI >= 3.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Superman\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Generator Magic\\Generator Magic\\Generator Magic\\Generator Magic.csproj",
+      "projectName": "Generator Magic",
+      "projectPath": "D:\\Generator Magic\\Generator Magic\\Generator Magic\\Generator Magic.csproj",
+      "packagesPath": "C:\\Users\\Superman\\.nuget\\packages\\",
+      "outputPath": "D:\\Generator Magic\\Generator Magic\\Generator Magic\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Superman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "CreditCardValidator": {
+            "target": "Package",
+            "version": "[3.0.1, )"
+          },
+          "Guna.UI2.WinForms": {
+            "target": "Package",
+            "version": "[2.0.3.3, )"
+          },
+          "SunnyUI": {
+            "target": "Package",
+            "version": "[3.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guna.UI2.WinForms 2.0.3.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
